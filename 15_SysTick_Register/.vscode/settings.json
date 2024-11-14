@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "driver_usart.h": "c",
+        "stm32f10x.h": "c",
+        "driver_systick.h": "c"
+    }
+}

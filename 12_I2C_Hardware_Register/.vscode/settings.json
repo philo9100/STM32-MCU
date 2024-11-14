@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "driver_led.h": "c",
+        "driver_usart.h": "c",
+        "stm32f10x.h": "c",
+        "driver_i2c2.h": "c",
+        "inf_w24c02.h": "c"
+    }
+}

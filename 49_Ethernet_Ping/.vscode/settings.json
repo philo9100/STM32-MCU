@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "driver_gpio.h": "c",
+        "wizchip_conf.h": "c",
+        "w5500.h": "c",
+        "inf_w5500.h": "c"
+    }
+}

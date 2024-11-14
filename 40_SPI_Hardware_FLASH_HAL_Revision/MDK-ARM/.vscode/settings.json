@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "inf_w25q32.h": "c",
+        "spi.h": "c",
+        "usart.h": "c"
+    }
+}

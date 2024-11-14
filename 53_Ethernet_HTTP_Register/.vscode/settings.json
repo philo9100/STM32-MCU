@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "inf_w5500_httpserver.h": "c",
+        "httpserver.h": "c",
+        "driver_led.h": "c"
+    }
+}

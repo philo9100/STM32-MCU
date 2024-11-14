@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "i2c.h": "c",
+        "inf_w24c02.h": "c",
+        "usart.h": "c"
+    }
+}

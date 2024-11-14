@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "driver_can.h": "c",
+        "driver_usart.h": "c"
+    }
+}

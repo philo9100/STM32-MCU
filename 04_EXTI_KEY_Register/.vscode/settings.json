@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "driver_key.h": "c",
+        "delay.h": "c",
+        "stm32f10x.h": "c",
+        "driver_led.h": "c"
+    }
+}

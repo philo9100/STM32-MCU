@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "driver_led.h": "c",
+        "driver_usart.h": "c"
+    }
+}

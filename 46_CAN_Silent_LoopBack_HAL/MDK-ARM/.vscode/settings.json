@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stm32f1xx_it.h": "c",
+        "can.h": "c",
+        "driver_can.h": "c",
+        "usart.h": "c"
+    }
+}

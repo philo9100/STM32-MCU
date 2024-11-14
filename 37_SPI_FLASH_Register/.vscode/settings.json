@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "driver_spi.h": "c",
+        "inf_w25q32.h": "c",
+        "delay.h": "c"
+    }
+}

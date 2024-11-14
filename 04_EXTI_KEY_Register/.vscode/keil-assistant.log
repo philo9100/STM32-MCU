@@ -1,0 +1,49 @@
+[info] Log at : 2024/3/14|11:08:32|GMT+0800
+
+[info] Log at : 2024/3/14|11:08:39|GMT+0800
+
+[info] Log at : 2024/3/14|11:09:46|GMT+0800
+
+[info] Log at : 2024/3/14|11:09:50|GMT+0800
+
+[info] Log at : 2024/3/15|09:38:43|GMT+0800
+
+[SyntaxError: Unexpected token '/', ..."er\\KEY",
+//        "... is not valid JSON
+	at JSON.parse (<anonymous>)
+	at F.updateCppProperties (c:\Users\97181\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:10911)
+	at F.<anonymous> (c:\Users\97181\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:12641)
+	at Generator.next (<anonymous>)
+	at c:\Users\97181\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:4542
+	at new Promise (<anonymous>)
+	at r (c:\Users\97181\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:4287)
+	at F.load (c:\Users\97181\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:11372)
+	at w.<anonymous> (c:\Users\97181\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:8799)
+	at Generator.next (<anonymous>)
+	at a (c:\Users\97181\.vscode\extensions\cl.keil-assistant-1.7.0\dist\extension.js:1:4344)]
+[info] Log at : 2024/3/17|09:09:31|GMT+0800
+
+[info] Log at : 2024/3/17|09:09:35|GMT+0800
+
+[info] Log at : 2024/3/18|10:25:52|GMT+0800
+
+[info] Log at : 2024/3/18|11:30:41|GMT+0800
+
+[info] Log at : 2024/3/18|14:39:52|GMT+0800
+
+[info] Log at : 2024/3/18|14:39:57|GMT+0800
+
+[info] Log at : 2024/3/18|15:22:22|GMT+0800
+
+[info] Log at : 2024/3/19|11:12:50|GMT+0800
+
+[info] Log at : 2024/9/4|17:31:59|GMT+0800
+
+[info] Log at : 2024/9/4|17:32:06|GMT+0800
+
+[info] Log at : 2024/9/6|08:57:48|GMT+0800
+
+[info] Log at : 2024/10/14|18:33:34|GMT+0800
+
+[info] Log at : 2024/10/14|18:33:40|GMT+0800
+
